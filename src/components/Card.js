@@ -34,14 +34,7 @@ const Card = (props) => {
           <FaQuoteRight/>
         </div>
 
-        <div>
-          <button>+</button>
-          <button>-</button>
-        </div>
-
-        <div>
-            <button>Surprise me</button>
-        </div>
+        
     </div>
   )
 }
